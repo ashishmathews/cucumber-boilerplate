@@ -16,6 +16,21 @@ Although this project works fine with NPM we recommend to use Yarn (>= 1.0.0) in
 
 Also this project doesn't cover setting up a proper test environment. You need to download specific browser driver yourself and run the prior starting tests or use a cloud provider like [SauceLabs](https://saucelabs.com/).
 
+
+## Features
+
+- Super simple setup
+- Full integration with [WebdriverIO](http://webdriver.io/)
+- Over 150 predefined steps that cover almost everything you need, you can start writing tests right away
+- Easy integration with cloud services like [Sauce Labs](https://saucelabs.com/)
+- Integration of WebdriverIO's Multiremote functionality
+- Easy to run tests in parallel
+
+## Framework
+- webdriverIO(v6.1)
+- cucumber(v6.3)
+- allure-reporter (v6.11)
+
 ## Quick start
 
 Choose one of the following options:
